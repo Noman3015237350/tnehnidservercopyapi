@@ -1,12 +1,5 @@
 {
   "name": "tneh-nid-api",
   "version": "1.0.0",
-  "type": "module",
-  "main": "api/index.js",
-  "scripts": {
-    "start": "node api/index.js"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "type": "module"
 }
